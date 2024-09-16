@@ -4,7 +4,7 @@ using namespace std;
 int main()
 {
 char s;
-int h;
+double h;
 cin >> s >> h;
 
     if (s == 'M' and h < 1.70) {
