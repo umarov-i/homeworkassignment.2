@@ -5,6 +5,8 @@ int main()
 {
 char s;
 int h;
+cin >> s >> h;
+
     if (s == 'M' and h < 1.70) {
         cout << "Short" << endl;
     }
